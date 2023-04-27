@@ -1,0 +1,22 @@
+1725|Hocka	|Aleksandra|Menedżer|Admin.|drukarki
+1302|Bergen	|Bożena|Asyst. Menedż.|Inż.-Tech.|faksy
+1301|Sofiński	|Ariel|St. Inżynier|Inż.-Tech.|drukarki
+1154|Salomon	|Aram|Inżynier informatyk|Inż.-Tech.|kopiarki
+1303|Larkin	|Donald|Inżynier informatyk|Inż.-Tech.|drukarki
+1294|Półkowicz	|Robert|Inżynier mechanik|Inż.-Tech.|faksy
+1293|Kraczyk	|Piotr|Technik|Inż.-Tech.|drukarki
+1720|Farmer	|Sam|Menedżer|Marketing|kopiarki
+1724|Samion	|Marek|Sprzedawca|Marketing|drukarki
+1080|Fosz	|Feliks|Analityk|Magazyn|drukarki
+1968|Larek	|Eryka|Szef biura|Admin.|drukarki
+1950|Seweryn	|Ryszard|St. Menedżer|Marketing|faksy
+1949|Samiak	|Karol|Sprzedawca|Marketing|kopiarki
+1967|Kortowski	|Czarek|Sprzedawca|Marketing|kopiarki
+1969|Wesoły	|Marek|Sprzedawca|Marketing|drukarki
+1932|Malik	|Helena|Księgowy|Księgowość|faksy
+1933|Janowski	|Michał|St. Inżynier|Inż.-Tech.|faksy
+1354|Berek	|Zuzanna|St. Inżynier|Inż.-Tech.|kopiarki
+1962|Wolska	|Helena|Sprzedawca|Marketing|drukarki
+1076|Makarek	|Krystyna|Główny Inżynier|Inż.-Tech.|kopiarki
+1696|Adamska	|Kasia|Inżynier mechanik|Inż.-Tech.|kopiarki
+1056|Gonczyk	|Jan|St. Menedżer|Admin.|kopiarki
